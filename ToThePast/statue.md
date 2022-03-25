@@ -25,7 +25,7 @@ Alright then, with the useful items from the future, you can use them here to ge
 Since we started next to the lake, lets do that one first shall we? Using your trusty jar and lid, type "Use jar on lake", and you will now have some lovely lake water. If you head eastward to the mushroom, you can remember that the worm has sharp teeth, try typing "Put worm on mushroom", you should get a piece of the mushroom from that.
 
 # How will these help?
-Each of these two items are vital for getting each of the godly gifts, the water requires you to go [into the present](/WhereCrew/control.md) and the mushroom piece required you to go [into the future](ToTheFuture/index.md).
+Each of these two items are vital for getting each of the godly gifts, the water requires you to go [into the present](/WhereCrew/control.md) and the mushroom piece required you to go [into the future](/ToTheFuture/index.md).
 
 ## How do i get through that door on the boulder?
 For that you will need the crowbar, given by the man at the fire, go to the door and type "use crowbar on door" and once you have done that simply "open door".
@@ -38,4 +38,3 @@ If you take the seed that was inside the berry and type "Put seed in pool" you w
 
 ## Alright! I have the gifts.
 Fantastic! Give each item to the statue by typing "give *item* to staute" and the end of game cutscene should play. Congratulations!
-
