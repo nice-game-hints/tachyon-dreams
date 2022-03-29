@@ -1,7 +1,7 @@
 ---
 title: The Statue & The Boulder
 keywords: Tachyon dreams statue, tachyon boulder,
-order: 10
+order: 30
 ---
 
 Heading east, Dodger comes across a large statue in the forest with a mysterious red painting on a rock nearby.

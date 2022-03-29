@@ -24,7 +24,7 @@ With a electrical ZAP the console comes to life, revealing the ships helpful AI 
 # Finished talking.
 After listening to Audrey, you are given a REMOTE and a COMPUTER, pressing TAB allows you to see your inventory. Using the computer allows you to get hints from Audrey when not on the station, yoau can also talk to audrey by typing "talk to audrey".
 
-#Ok, I am ready to progress.
+# Ok, I am ready to progress.
 Good. Go ahead and use that remote.
 
 # Let's do this!
