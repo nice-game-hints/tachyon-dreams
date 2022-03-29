@@ -1,6 +1,7 @@
 ---
 title: Entering the Main Control Room
 keywords: Tachyon dreams 1, how to play tachyon dreams 1
+order: 10
 ---
 
 Even though you don't usually have a high enough clearance level, it appears you have free roam of the room. There is a central console in the middle of the room and a screen on the back wall which is turned off.

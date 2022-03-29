@@ -1,6 +1,6 @@
 ---
 title: Part 1 - Where'd the crew go?
-keywords: Tachyon dreams 1, how to play Tachyon dreams 1
+keywords: Tachyon dreams, tachyon crew, tachyon space station, space games
 order: 10
 ---
 

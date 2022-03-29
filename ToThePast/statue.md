@@ -1,6 +1,6 @@
 ---
 title: The Statue & The Boulder
-keywords: Tachyon dreams 1, how to play Tachyon dreams 1
+keywords: Tachyon dreams statue, tachyon boulder,
 order: 10
 ---
 
@@ -37,4 +37,4 @@ Now you seem to be in a cave with a gem encrusted pool inside, take a look aroun
 If you take the seed that was inside the berry and type "Put seed in pool" you will obtain a fragrant fruit, which is one of the godly gifts!
 
 ## Alright! I have the gifts.
-Fantastic! Give each item to the statue by typing "give *item* to staute" and the end of game cutscene should play. Congratulations!
+Fantastic! Give each item to the statue by typing "give *item* to statue" and the end of game cutscene should play. Congratulations!
