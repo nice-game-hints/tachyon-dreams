@@ -35,4 +35,4 @@ Hmm. Biting a worm with 'razor sharp teeth', according to its inventory descript
 Oh well, into our inventory he goes!
 
 # What now?
-We've got some nifty items that should prove useful [back in the past!](/ToThePast/returned.md)
+We've got some nifty items that should prove useful [back in the past!](../ToThePast/returned.md)
