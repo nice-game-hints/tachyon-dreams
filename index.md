@@ -9,6 +9,6 @@ released: 2022-05-04
 
 In the far distant future, you'll step into the shoes of the heroic Dodger, a suave character aboard the Space Station Penrose, on a text-based adventure through time and space.
 
-These Tachyon Dreams hints contain hints for both games: Tachyon Dreams and Tachyon Dremas 2.
+These Tachyon Dreams hints contain hints for both games: Tachyon Dreams I and Tachyon Dreams II.
 
 Select the chapter, or game, to start your journey.
