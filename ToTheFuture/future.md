@@ -1,46 +1,38 @@
 ---
-title: Exploring the future
+title: Getting started in the future
 keywords: Tachyon dreams 1, tachyon dreams future, future games
-order: 20
+order: 10
 ---
 
 The future ain't what it used to be.
 
-# Let's look around.
-If you go up to all the specified environmental objects and "look", you can find a lot of useful things here, you can also talk to the man who will welcome you to the future and talk about his desperate fire situation.
+# What can I find here?
+As always, typing 'Look' gives a general description of your environment.
 
-# I'll have a search around...
-Typing "Search", then the specific thing you want to search such as the body and chimney.
+Click the question mark for a summary of the area. ^[A man is warming himself with a burning barrel, a corpse is rotting in the snow, and a chimney sticks up out of the snow. Oh, and there's a snowman. Cute.]
 
-## What now?
-Searching the body and chimney, you should now have the "Jar" and "Cover", you should have also noticed that enticing carrot as the snowmans lovely nose, grab that too.
+# That's a lot to remember.
+Indeed - and specifying what you want to look at by typing 'look (object)' gives even more details.
 
-# The Carrot?
-Yes, believe it or not its actually rather important for you to grab this, take a look at it why don't you?
+# Nice to see a fellow human, at least!
+At long last! You can talk to him to hear his struggles, mostly revolving around freezing to death due to not finding any oil that day.
 
-# I looked at the carrot.
-Looking at the carrot you see a cute little worm friend! Taking a closer look he has some sharp looking teeth, maybe that will be handy in the future?
+# Can I help?
+You can certainly have a rummage - typing 'search' and then the specific thing you want to feel around will do just that.
 
-# What else is there?
-Moving to the east, you find another man, this time leaning on the wall next to a large hole in the wall, you can talk to him much like the other guy.
+## What should I search?
+Search the corpse and the chimney to find their respective items.
 
-# Ok, what now?
-He mentioned about being hungry, poor guy, anyway wandering through the hole will reveal the coveted radiated fish, dead in the water. What a shame.
+# Anything else?
+Something indefensible - the snowman's treasured nose. Take it, you monster.
 
-## How do i get the fish?
-Remember that lead case you picked up earlier? Type "Use lead case on fish", and you will now aquire the fish, it *is* still radiated however, I wonder how we can fix that?
+# Snack time!
+Hey, why not? Type 'eat carrot' and give Dodger a snack for his hard work.
+
+## Woah!
+Hmm. Biting a worm with 'razor sharp teeth', according to its inventory description, doesn't seem like a good idea.
+
+Oh well, into our inventory he goes!
 
 # What now?
-Now you have to traverse the timelines in order to obtain the different gifts for the statue, by now you should have most of the items necessary in order to get them.
-
-# Where to?
-There is no set order in which to obtain these items, but they do intertwine with one another, so to begin, travel [back to the present](/WhereCrew/control.md).
-
-# I am back from the past!
-Nice! by now you should have the fish and the mushroom piece, upon inspecting the mushroom piece, you should notice something weird about how its described i wonder what you do with sponges that have something inside?
-
-## What do i do with it?
-If you go to the fire barrel and type "Squeeze mushroom", an oily substance will fuel the fire, and with gratitude the man will hand you a crowbar, which needs to used [in the distant past](/ToThePast/index.md).
-
-# What do i do with the fish?
-If you hand the now non-radiated fish to the man outside, he will thank you for the food, and give you waht he thinks is a worthless idol... but to you its actually one of the much needed godly gifts! Well done! 
+We've got some nifty items that should prove useful [back in the past!](/ToThePast/returned.md)

@@ -1,43 +1,41 @@
 ---
-title: Entering the Main Control Room
-keywords: Tachyon dreams 1, how to play tachyon dreams 1
+title: Looking for the crew
+keywords: Tachyon dreams 1, how to play tachyon dreams 1, tachyon dreams walkthrough
 order: 10
 ---
 
-Even though you don't usually have a high enough clearance level, it appears you have free roam of the room. There is a central console in the middle of the room and a screen on the back wall which is turned off.
+Despite all the rumbling and bumbling, nobody seems to be around. What's going on?!
 
-# Lets get a move on, shall we?
-Use the arrow keys to move around the room.
+# What can I do?
+Typing 'Look' will give you a brief description of the room and your circumstances - click the question mark for a summary. ^[You're in the main control room of the space station, with a central console in the middle of the room - a screen on the back wall is currently switched off.]
 
-# What is this place?
-Take a look around by typing "Look" 
+You can also move around by using the arrow keys.
 
-# How do i take a closer look at that console?
-Type "Look console", this also works with other things specified in the game.
+# What can I do?
+Typing 'Look' listed some things in the room you could investigate.
+
+# Like what?
+Like the console - try typing 'look console' from anywhere in the room for a closer look.
+
+# What now?
+Dodger was interested in one of the buttons on the console - specifically a red one.
+
+# Hmmm...
+All big red buttons should obviously be pushed - get closer to the button by using the arrow keys and moving to the part of the console next to the chair.
+
+# How do I use the button?
+You can type 'Push button' or 'Press button' to proceed.
 
 # What now?
 That button seems to have caught your eye, type "Press button" to see if anything happens.
 
-# Ok, done.
-With a electrical ZAP the console comes to life, revealing the ships helpful AI Audrey appears and talks to the player.
+## Wah!
+The console literally jolted to life! Thankfully, we now have someone to talk to - Audrey is the ship's AI and has a better idea of what happened to the crew than you do.
 
-# Finished talking.
-After listening to Audrey, you are given a REMOTE and a COMPUTER, pressing TAB allows you to see your inventory. Using the computer allows you to get hints from Audrey when not on the station, yoau can also talk to audrey by typing "talk to audrey".
+# What now?
+Audrey gave you two items - a REMOTE that lets you travel through time, and a COMPUTER that lets you talk to her and get in-game hints.
 
-# Ok, I am ready to progress.
-Good. Go ahead and use that remote.
+Press TAB to see your inventory at any time, and press 'ENTER' while one of the items is selected to read more about it.
 
-# Let's do this!
-You press the remote to go to the distant past and feel yourself dissassemble, moments later, you reassemble and appear [in the distant past](/ToThePast/index.md).
-
-## I am back from exploring the timelines!
-Back from your adventure, you should have in your inventory a berry, radiated fish and the lake water. Have an explore around the station and talk with Audrey to try and figure out what to do.
-
-# What so i do with the berry?
-Since the berry has a super hard exterior, perhaps you might need to crack it open somehow, now what could be capable of doing that?
-
-## How do i crack it open?
-In the dishwashing room, you can see a fan in the background with super sharp blades, typing "Throw berry in fan" will crack it open revealing a seed.
-
-## What am i supposed to do?
-If you go into the dishwashing room, you can use the sink to put the water in, type "Put water in sink" once you have done that "Put fish in sink", the microalgae from the water will clean the fish and will be ready to eat! Maybe this will be useful for [future use](/ToTheFuture/index.md).
+# Ready to progress!
+Great - type 'use remote' to time travel [into the past!](/ToThePast/index.md)

@@ -4,4 +4,4 @@ keywords: Tachyon dreams 1, how to play Tachyon dreams 1
 order: 20
 ---
 
-Appearing in the past, Dodger stands in a green forest, theres lot's of vegetation and natural water here unlike in the Space Station. Let's take a look around, shall we?
+Back in my day, we didn't spend all day looking around at the greenery! [Get a move on!](bush.md)
