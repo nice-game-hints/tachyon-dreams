@@ -49,4 +49,4 @@ Audrey might have an idea of what to do with the stinky thing.
 Click the question mark to see her response. ^[Can you get rid of its radiation from down there? No. Cleaning it with microalgae-filled water in the ship could do the trick, though.]
 
 ## Does that mean...
-Yep, we're headed [back to the ship!](/WhereCrew/returned.md)
+Yep, we're headed [back to the ship!](../WhereCrew/returned.md)

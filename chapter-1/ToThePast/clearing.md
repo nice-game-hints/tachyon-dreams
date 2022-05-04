@@ -45,4 +45,4 @@ Like the lead case on the ground!
 We've done seemingly everything that can be done in the past, for now at least.
 
 # How do I leave the past?
-Type 'use remote' and [travel into the future!](/ToTheFuture/index.md)
+Type 'use remote' and [travel into the future!](../ToTheFuture/index.md)

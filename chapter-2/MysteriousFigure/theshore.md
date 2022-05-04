@@ -40,5 +40,5 @@ If you give the page to tenas, she will decipher it and reveal that *Sing to me 
 In the ocean there are two pillars sticking up, i wonder what that significance is?
 
 ## How do i open the shrines gate?
-Warm up those vocal cords because you need to "sing", at which point the gate will open and you can [step through](/Portal/index.md).
+Warm up those vocal cords because you need to "sing", at which point the gate will open and you can [step through](../Portal/index.md).
 

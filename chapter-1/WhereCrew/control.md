@@ -38,4 +38,4 @@ Audrey gave you two items - a REMOTE that lets you travel through time, and a CO
 Press TAB to see your inventory at any time, and press 'ENTER' while one of the items is selected to read more about it.
 
 # Ready to progress!
-Great - type 'use remote' to time travel [into the past!](/ToThePast/index.md)
+Great - type 'use remote' to time travel [into the past!](../ToThePast/index.md)

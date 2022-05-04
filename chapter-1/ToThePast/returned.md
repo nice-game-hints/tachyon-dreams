@@ -49,4 +49,4 @@ Type 'smell mushroom' for a more detailed description of its scent.
 Didn't you meet a guy that was looking for oil?
 
 # Does that mean...
-Yep, [back to the future we go!](/ToTheFuture/returned.md)
+Yep, [back to the future we go!](../ToTheFuture/returned.md)

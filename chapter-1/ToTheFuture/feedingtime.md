@@ -18,4 +18,4 @@ He gave us an idol that doesn't seem to have much use right now - but that's jus
 It may be worth noting that the idol has wings.
 
 # Does that mean...
-Yep, [back to the past we go!](/ToThePast/returnedagain.md)
+Yep, [back to the past we go!](../ToThePast/returnedagain.md)
