@@ -4,6 +4,7 @@ keywords: tachyon dreams, how to play tachyon dreams, dodger tachyon, radiant fi
 author: Scott Proctor
 praise: https://www.buymeacoffee.com/fancyscott
 agdb: tachyon_dreams
+released: 2022-05-04
 ---
 
 In the far distant future, you'll step into the shoes of the heroic Dodger, a suave character aboard the Space Station Penrose, on a text-based adventure through time and space.
