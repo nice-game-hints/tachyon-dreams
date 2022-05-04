@@ -8,4 +8,6 @@ agdb: tachyon_dreams
 
 In the far distant future, you'll step into the shoes of the heroic Dodger, a suave character aboard the Space Station Penrose, on a text-based adventure through time and space.
 
-Select a guide to start your journey.
+These Tachyon Dreams hints contain hints for both games: Tachyon Dreams and Tachyon Dremas 2.
+
+Select the chapter, or game, to start your journey.
